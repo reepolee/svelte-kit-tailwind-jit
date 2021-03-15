@@ -1,6 +1,6 @@
 # SvelteKit with TailwindCSS JIT
 
-This is highly experimental template as neither Svelte Kit not TailwindCSS JIT are production ready.
+This is highly experimental template as neither Svelte Kit nor TailwindCSS JIT are production ready.
 
 # Installation
 
