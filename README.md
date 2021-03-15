@@ -17,7 +17,7 @@ Tailwind classes and `@apply` statements are currently split between CSS and Sve
 
 # Remarks
 
-I've notice Vite doesn't reload CSS on tailwind.config.cjg change. PostCSS catched the change but HMR doesn't occur.
+I've noticed Vite doesn't reload CSS on tailwind.config.cjg change. PostCSS catched the change but HMR doesn't occur.
 
 
 # Further reading
