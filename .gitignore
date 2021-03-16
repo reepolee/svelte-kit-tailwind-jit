@@ -3,3 +3,5 @@ node_modules
 /.svelte
 /build
 /functions
+pnpm-lock.yaml
+package-lock.json
