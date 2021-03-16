@@ -8,6 +8,7 @@ devDependencies:
   postcss: 8.2.8
   postcss-cli: 8.3.1_postcss@8.2.8
   postcss-load-config: 3.0.1
+  postcss-nested: 5.0.5_postcss@8.2.8
   svelte: 3.35.0
   svelte-preprocess: 4.6.9_bfabe6c7bc3d73e76d0bc9dab084c580
   tailwindcss: 2.0.3_caf414ac65a978d0d57907a0ec9fb41e
@@ -2381,6 +2382,7 @@ specifiers:
   postcss: ^8.2.7
   postcss-cli: ^8.3.1
   postcss-load-config: ^3.0.1
+  postcss-nested: ^5.0.5
   svelte: ^3.29.0
   svelte-preprocess: ^4.6.9
   tailwindcss: ^2.0.3
