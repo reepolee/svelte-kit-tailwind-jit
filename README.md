@@ -22,5 +22,5 @@ I've noticed Vite doesn't reload CSS on tailwind.config.cjs change. PostCSS catc
 # Further reading
 
 [SvelteKit](https://github.com/sveltejs/kit)  
-[TailwindCSS JIT](https://github.com/tailwindlabs/tailwindcss-jit)
+[TailwindCSS JIT](https://github.com/tailwindlabs/tailwindcss-jit)  
 [Svelte Adders](https://github.com/svelte-add/svelte-adders)
