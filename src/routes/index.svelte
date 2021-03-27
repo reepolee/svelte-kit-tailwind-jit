@@ -1,10 +1,10 @@
 <script>
-  import Counter from "$components/Counter.svelte"
+  import Counter from "$lib/Counter.svelte";
 </script>
 
 <main class="text-center">
   <h1>Hello world!</h1>
-  
+
   <Counter />
   <p class="py-8">Visit the <a href="https://svelte.dev">svelte.dev</a> to learn how to build Svelte apps.</p>
 </main>

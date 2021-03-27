@@ -3,8 +3,8 @@
 @tailwind utilities;
 
 @layer base {
-    h1 {
-        @apply bg-gray-100 py-12;
-        @apply text-svelte-500 uppercase text-4xl my-8;
-    }
+  h1 {
+    @apply bg-gray-100 py-12;
+    @apply text-svelte-500 uppercase text-4xl my-8;
+  }
 }

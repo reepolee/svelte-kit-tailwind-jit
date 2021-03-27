@@ -19,9 +19,8 @@ Tailwind classes and `@apply` statements are currently split between CSS and Sve
 
 I've noticed Vite doesn't reload CSS on tailwind.config.cjs change. PostCSS catches the change but HMR doesn't occur.
 
-
 # Further reading
 
 [SvelteKit](https://github.com/sveltejs/kit)  
 [TailwindCSS JIT](https://github.com/tailwindlabs/tailwindcss-jit)
-
+[Svelte Adders](https://github.com/svelte-add/svelte-adders)
