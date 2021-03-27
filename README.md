@@ -5,8 +5,8 @@ This is highly experimental template as neither Svelte Kit nor TailwindCSS JIT a
 # Installation
 
 ```
-git clone https://github.com/reepolee/svelte-kit-tailwind-jit.git
-cd svelte-kit-tailwind-jit
+npx degit reepolee/svelte-kit-tailwind-jit#main YOUR-APP-NAME
+cd YOUR-APP-NAME
 npm i
 npm run dev -- --open
 ```
